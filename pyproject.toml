@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_stablecascadelatentratio"
+description = "A custom node to create empty latents for Stable Cascade.\nfeatures: width and height incrementation of 64 by default, possibility to lock the aspect ratio, switch width/height at execution"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Guillaume-Fgt/ComfyUI_StableCascadeLatentRatio"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_StableCascadeLatentRatio"
+Icon = ""
